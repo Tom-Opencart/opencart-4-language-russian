@@ -10,7 +10,7 @@
 
 ### Способ 1. Автоматическая установка (Рекомендуется)
 
-1. Скачайте готовый к установке архив: **[Скачать opencart-language-russian.ocmod.zip](https://github.com/Tom-Opencart/opencart-language-russian/releases/download/4.1.0.3/opencart-language-russian.ocmod.zip)**.
+1. Скачайте готовый к установке архив: **[Скачать opencart-4-language-russian.ocmod.zip](https://github.com/Tom-Opencart/opencart-4-language-russian/releases/download/4.1.0.3/opencart-4-language-russian.ocmod.zip)**.
 2. Перейдите в административную панель вашего сайта: **Extensions** ➔ **Installer** (Расширения ➔ Установка расширений).
 3. Нажмите кнопку **Upload** (Загрузить) и выберите скачанный архив `.ocmod.zip`.
 4. После успешной загрузки нажмите кнопку **Install** (Установить) в списке ниже.
